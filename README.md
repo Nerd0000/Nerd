@@ -1,11 +1,8 @@
-# ideia
-Um mmorpg de mundo aberto,
-que funciona tanto online quanto offline
-
-# plano de projeto (requisitos)
+# Plano de projeto (requisitos)
+- Um mmorpg de mundo aberto
 - 2D, isometrico
 - Modo campanha
 - Modo online
 
-# tecnologias
+# Tecnologias
 - html, css, javascript
